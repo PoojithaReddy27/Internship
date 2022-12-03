@@ -1,11 +1,11 @@
-################################# Slider #####################################
+m################################# Slider #####################################
 slider:
   enable : true
   bg_image : "images/banner/banner-1.jpg"
   slider_item:
     # slider item loop
     - title : "Your bright future is our mission"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+      content : "Welcome to EDUCENTER"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
@@ -16,7 +16,7 @@ slider:
 
     # slider item loop
     - title : "Your bright future is our mission"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+      content : "Be a piece of the training journey that nurtures your skills to prepare you for a stunning and positive career run."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
@@ -27,7 +27,9 @@ slider:
 
     # slider item loop
     - title : "Your bright future is our mission"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+      content : "Web Development with Python and Django | Python and Django Course
+Next-gen web dev pedagogy under one-roof
+Lets redefLet's redefine the art of web development together by investing in the principles of confidence, growth, and practicums."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
@@ -45,22 +47,22 @@ banner_feature:
     # feature item loop
     - name : "Scholorship News"
       icon : "ti-book" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+      content : "Check out for the latest news on school students scholarship along with Educenter students scholarship "
 
     # feature item loop
     - name : "Our Notice Board"
       icon : "ti-blackboard" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+      content : "We are trusted by 20,000+ Students around the Globe. Participate and get started in your career from ZERO to HERO"
 
     # feature item loop
     - name : "Our Achievements"
       icon : "ti-agenda" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+      content : "Facilitation of a comprehensive understanding of the subject-matter through interactive learning techniques such as videos, audios"
 
     # feature item loop
     - name : "Admission Now"
       icon : "ti-write" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+      content : "Admission are open. PLease contact for more details"
 
 
 ############################## about ##################################
@@ -100,11 +102,11 @@ success_story:
   enable : true
   bg_image : "images/backgrounds/success-story.jpg"
   title : "Success Stories"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat pariatur. Excepteur sint occaecat.
-            
-            
-  ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-  dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris"
+  content : "At Codegnan, we offer you the best ever internship training available in the market. You might be unaware of what an internship can offer you. We are here to guide you through the entire process.
+
+Learning is going to be fun when you are going to be interning with us. At Codegnan, you can be confident that after the internship training, you would be capable enough to get the best jobs at any corner of the world. We can guarantee you this.
+
+The benefits involving internships are that students will be able to understand what they can expect in the corporate world while they are still in their student phase. This will help them to sail higher in the ship of career."
   # video link
   video_link : "https://www.youtube.com/watch?v=ResipmZmpDU"
 
